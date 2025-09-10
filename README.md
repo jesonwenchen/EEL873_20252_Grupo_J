@@ -1,4 +1,4 @@
-| Classificação de desejos pelo método MoSCoW |
+# Classificação de desejos pelo método MoSCoW 
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Parte Interessada | Nome | Venda pela internet | Pagamento via internet | Acompanhamento de pedidos | Classificação e agrupamento de clientes (CRISP) | Cadastro e aprovação do cliente | Site web interativo/responsivo | Usabilidade simples |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

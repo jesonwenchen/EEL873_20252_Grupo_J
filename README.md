@@ -1,5 +1,4 @@
-# Classificação de desejos pelo método MoSCoW 
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+# Classificação de desejos pelo método MoSCoW. 
 | Parte Interessada | Nome | Venda pela internet | Pagamento via internet | Acompanhamento de pedidos | Classificação e agrupamento de clientes (CRISP) | Cadastro e aprovação do cliente | Site web interativo/responsivo | Usabilidade simples |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Proprietário | Arnaldo Américo | <img src="https://img.shields.io/badge/MUST-red" alt="MUST"> | <img src="https://img.shields.io/badge/COULD-blue" alt="COULD"> | <img src="https://img.shields.io/badge/SHOULD-orange" alt="SHOULD"> | <img src="https://img.shields.io/badge/COULD-blue" alt="COULD"> | <img src="https://img.shields.io/badge/COULD-blue" alt="COULD"> | ? | ? |

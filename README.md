@@ -8,4 +8,6 @@
 | Vendedor | Felipe | <img src="https://img.shields.io/badge/WON'T-grey" alt="WON'T"> | <img src="https://img.shields.io/badge/MUST-red" alt="MUST"> | <img src="https://img.shields.io/badge/MUST-red" alt="MUST"> | <img src="https://img.shields.io/badge/MUST-red" alt="MUST"> | <img src="https://img.shields.io/badge/MUST-red" alt="MUST"> | <img src="https://img.shields.io/badge/WON'T-grey" alt="WON'T"> | <img src="https://img.shields.io/badge/WON'T-grey" alt="WON'T"> |
 | Vendedor | Gabriela | <img src="https://img.shields.io/badge/WON'T-grey" alt="WON'T"> | <img src="https://img.shields.io/badge/MUST-red" alt="MUST"> | <img src="https://img.shields.io/badge/MUST-red" alt="MUST"> | <img src="https://img.shields.io/badge/SHOULD-orange" alt="SHOULD"> | <img src="https://img.shields.io/badge/WON'T-grey" alt="WON'T"> | <img src="https://img.shields.io/badge/WON'T-grey" alt="WON'T"> | <img src="https://img.shields.io/badge/WON'T-grey" alt="WON'T"> |
 
-Os desejos que tiveram "?" significa que a parte interessada não expressou nenhuma opinião com relação ao assunto.
+### Os desejos que tiveram "?" significa que a parte interessada não expressou nenhuma opinião com relação ao assunto.
+
+A planilha da análisa das partes interessadas pode ser vista em: https://docs.google.com/spreadsheets/d/1Ly8H6Ul8BERODQsYRl9X6q7l0RLwzP629UaiuD8D1o0/edit?usp=drivesdk

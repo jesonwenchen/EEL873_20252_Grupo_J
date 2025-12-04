@@ -10,4 +10,3 @@
 
 ### Os desejos que tiveram "?" significa que a parte interessada não expressou nenhuma opinião com relação ao assunto.
 
-A planilha da análisa das partes interessadas pode ser vista em: https://docs.google.com/spreadsheets/d/1Ly8H6Ul8BERODQsYRl9X6q7l0RLwzP629UaiuD8D1o0/edit?usp=drivesdk
